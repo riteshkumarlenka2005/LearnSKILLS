@@ -1,0 +1,397 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║            🎯 LearnSKILLS(CareerSoulmate) — MASTER ROADMAP                 ║
+║            12-Month Skill Mastery Plan → 7-9 LPA Placement                 ║
+║            Target: End of 5th Semester                                      ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                    PHASE 1: FOUNDATION REBUILD (Month 1-3)
+═══════════════════════════════════════════════════════════════════════════════
+
+MONTH 1 → Java Mastery + Git/GitHub
+  ├── Java OOPs deep (Encapsulation → Polymorphism → Abstraction)
+  ├── Java Collections Framework
+  ├── Exception Handling, Generics, Streams
+  ├── Git/GitHub (branching, PR, collaboration)
+  └── Leetcode: 0 (focus on Java mastery first)
+
+MONTH 2 → DSA Foundations in Java
+  ├── Arrays, Strings (patterns, sliding window)
+  ├── Linked List (singly, doubly, circular)
+  ├── Stack & Queue (implementation + problems)
+  ├── Recursion & Backtracking (master level)
+  └── Leetcode: 30-40 problems (Easy)
+
+MONTH 3 → DSA Intermediate in Java
+  ├── Trees (Binary Tree, BST, AVL)
+  ├── Heaps & Priority Queue
+  ├── Hashing & HashMaps
+  ├── Sorting & Searching algorithms
+  └── Leetcode: 40-50 problems (Easy + Medium)
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                   PHASE 2: CORE TECH DEEP DIVE (Month 4-6)
+═══════════════════════════════════════════════════════════════════════════════
+
+MONTH 4 → JavaScript/TypeScript Deep + Frontend
+  ├── JS Advanced (Closures, Promises, Async/Await)
+  ├── TypeScript (Types, Interfaces, Generics)
+  ├── React Deep (Hooks, Context, Redux, Router)
+  ├── HTML/CSS Advanced (Responsive, Tailwind)
+  ├── 🔨 PROJECT 1: Full Stack App (React + TS)
+  └── Leetcode: 30 problems (Medium)
+
+MONTH 5 → Backend Deep + Database
+  ├── Node.js Deep (Event Loop, Streams, Clusters)
+  ├── Express Advanced (Middleware, Auth, JWT)
+  ├── MongoDB Deep (Aggregation, Indexing)
+  ├── SQL (PostgreSQL - Joins, Subqueries, Normalization)
+  ├── REST API Design + GraphQL basics
+  └── Leetcode: 30 problems (Medium)
+
+MONTH 6 → DSA Advanced
+  ├── Graphs (BFS, DFS, Dijkstra, Topological Sort)
+  ├── Dynamic Programming (1D, 2D, on Trees)
+  ├── Greedy Algorithms
+  ├── Tries, Segment Trees
+  ├── 🔨 PROJECT 2: Backend heavy project
+  └── Leetcode: 40-50 problems (Medium + Hard)
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                    PHASE 3: EXPANDING SKILLS (Month 7-9)
+═══════════════════════════════════════════════════════════════════════════════
+
+MONTH 7 → AI/ML + Data Science
+  ├── Python for ML (NumPy, Pandas, Matplotlib)
+  ├── Scikit-learn (Regression, Classification, Clustering)
+  ├── Deep Learning basics (Neural Networks, TensorFlow/PyTorch)
+  ├── Data Science workflow
+  ├── 🔨 PROJECT 3: ML Project with Dashboard
+  └── Leetcode: 25 problems (Medium + Hard)
+
+MONTH 8 → DevOps + Cloud + Linux
+  ├── Linux (Commands, Shell Scripting, Permissions)
+  ├── Docker (Containers, Images, Docker Compose)
+  ├── Cloud (AWS/GCP basics - EC2, S3, Lambda)
+  ├── CI/CD Pipeline basics
+  ├── Deployment (Vercel, Railway, AWS)
+  └── Leetcode: 25 problems (Medium + Hard)
+
+MONTH 9 → GATE Core CS Subjects
+  ├── Operating Systems (Process, Memory, Scheduling)
+  ├── Computer Networks (OSI, TCP/IP, HTTP)
+  ├── DBMS Theory (Normalization, Transactions, SQL)
+  ├── OOPs Concepts deep theory
+  ├── 🔨 PROJECT 4: DevOps integrated project
+  └── Leetcode: 25 problems (revision)
+
+
+═══════════════════════════════════════════════════════════════════════════════
+               PHASE 4: ADVANCED + PLACEMENT PREP (Month 10-12)
+═══════════════════════════════════════════════════════════════════════════════
+
+MONTH 10 → Supporting & Future Techs
+  ├── Cybersecurity basics (OWASP, Auth, Encryption)
+  ├── Blockchain basics (concepts, smart contracts intro)
+  ├── IoT basics (concepts, protocols)
+  ├── LLM/Chatbots (OpenAI API, LangChain basics)
+  ├── AI Agents, Voice AI, Image AI (overview + 1 mini project)
+  └── Leetcode: 20 problems (Hard)
+
+MONTH 11 → System Design + Advanced DSA
+  ├── System Design (LLD + HLD basics)
+  ├── Design Patterns
+  ├── DSA Revision (all topics)
+  ├── AR/VR, Quantum Computing (theory overview)
+  ├── 🔨 PROJECT 5: Capstone Project (Full Stack + AI)
+  └── Leetcode: 30 problems (Mixed revision)
+
+MONTH 12 → Interview Prep + Polish
+  ├── Resume building (ATS optimized)
+  ├── Mock Interviews (DSA + HR + System Design)
+  ├── Portfolio website
+  ├── LinkedIn & GitHub profile polish
+  ├── Company-specific preparation
+  ├── All projects deployed & documented
+  └── Leetcode: Revision of 300+ problems
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                         📊 Leetcode Target Tracker
+═══════════════════════════════════════════════════════════════════════════════
+
+Month 1  →   0  (Java focus)
+Month 2  →  35  (Easy)
+Month 3  →  45  (Easy + Medium)
+Month 4  →  30  (Medium)
+Month 5  →  30  (Medium)
+Month 6  →  45  (Medium + Hard)
+Month 7  →  25  (Medium + Hard)
+Month 8  →  25  (Medium + Hard)
+Month 9  →  25  (Revision)
+Month 10 →  20  (Hard)
+Month 11 →  30  (Mixed)
+Month 12 →  20  (Revision)
+─────────────────────────────
+TOTAL    → 330 problems ✅
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                         📅 Daily Schedule Template
+═══════════════════════════════════════════════════════════════════════════════
+
+WEEKDAY (3 hours):
+┌─────────────────────────────────────┐
+│ Hour 1 → Theory + Notes            │
+│ Hour 2 → Coding / Implementation   │
+│ Hour 3 → Leetcode (1-2 problems)   │
+└─────────────────────────────────────┘
+
+WEEKEND (5-6 hours):
+┌─────────────────────────────────────┐
+│ Hour 1-2 → Deep Theory + Notes     │
+│ Hour 2-3 → Project Work            │
+│ Hour 4   → Leetcode (2-3 problems) │
+│ Hour 5   → Revision + Mini Test    │
+│ Hour 6   → Explore / Extra topics  │
+└─────────────────────────────────────┘
+
+SUNDAY → Light revision + weekly test
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                       ⏱️ Time Allocation Per Tier
+═══════════════════════════════════════════════════════════════════════════════
+
+╔════════════════════════════════════════════════════════════╗
+║  TIER   │ FOCUS LEVEL       │ TIME SHARE │ DEPTH         ║
+╠════════════════════════════════════════════════════════════╣
+║  Tier 1 │ 100% Deep Mastery │   60%      │ Advanced      ║
+║  Tier 2 │ Medium Focus      │   20%      │ Practical     ║
+║  Tier 3 │ Secondary Focus   │   10%      │ Basic+1 Proj  ║
+║  Tier 4 │ Low Priority      │    5%      │ Overview      ║
+║  Tier 5 │ Exploration Only  │    5%      │ Awareness     ║
+╠════════════════════════════════════════════════════════════╣
+║  ALWAYS │ Projects/Notes/Interview → Runs Parallel       ║
+╚════════════════════════════════════════════════════════════╝
+
+
+═══════════════════════════════════════════════════════════════════════════════
+              🗓️ REVISED 12-Month Plan (Tier-Weighted)
+═══════════════════════════════════════════════════════════════════════════════
+
+
+PHASE 1: JAVA + DSA FOUNDATION (Month 1-3)  [TIER 1]
+══════════════════════════════════════════════════════
+
+MONTH 1 → Java Deep Mastery
+  ├── Week 1: Java Architecture (JDK/JRE/JVM), Memory Model
+  ├── Week 2: OOPs Deep (Inheritance, Polymorphism, Abstraction)
+  ├── Week 3: Collections Framework (List, Set, Map, Queue)
+  ├── Week 4: Exception Handling, Generics, Streams, Lambda
+  ├── SIDE: Git/GitHub basics [Tier 2]
+  └── Leetcode: 10 Easy (just to start habit)
+
+MONTH 2 → DSA Part 1 (Java)
+  ├── Week 1: Arrays (Patterns, Kadane's, Prefix Sum, 2 Pointer)
+  ├── Week 2: Strings (Manipulation, Pattern Matching, Anagrams)
+  ├── Week 3: Linked List (Singly, Doubly, Circular, Problems)
+  ├── Week 4: Stack & Queue (Implementation + Monotonic + Problems)
+  └── Leetcode: 35-40 (Easy + Medium begins)
+
+MONTH 3 → DSA Part 2 (Java)
+  ├── Week 1: Recursion Deep (Tree recursion, Subset, Permutation)
+  ├── Week 2: Backtracking (N-Queens, Sudoku, Rat in Maze)
+  ├── Week 3: Sorting (Merge, Quick, Heap, Counting, Radix)
+  ├── Week 4: Searching (Binary Search patterns, Rotated Array)
+  └── Leetcode: 40-45 (Easy + Medium)
+
+
+PHASE 2: DSA ADVANCED + BACKEND (Month 4-6)  [TIER 1]
+══════════════════════════════════════════════════════
+
+MONTH 4 → DSA Part 3 (Java)
+  ├── Week 1: Hashing (HashMap, HashSet, Frequency, Collision)
+  ├── Week 2: Trees (Binary Tree, BST, Traversals, Problems)
+  ├── Week 3: Heaps & Priority Queue (K problems, Median)
+  ├── Week 4: Tries + Advanced Trees (AVL intro)
+  ├── SIDE: HTML/CSS basics [Tier 2]
+  └── Leetcode: 35-40 (Medium heavy)
+
+MONTH 5 → DSA Part 4 (Java)
+  ├── Week 1: Graphs BFS/DFS (Matrix, Adjacency List)
+  ├── Week 2: Graphs Advanced (Dijkstra, Topo Sort, Union Find)
+  ├── Week 3: Dynamic Programming 1D (Fibonacci, Climbing, Coin)
+  ├── Week 4: DP 2D + on Subsequences (LCS, Knapsack, Grid)
+  ├── SIDE: React basics [Tier 2]
+  └── Leetcode: 40-45 (Medium + Hard begins)
+
+MONTH 6 → Backend Deep (Node + Express + APIs)
+  ├── Week 1: Node.js Deep (Event Loop, Modules, Streams)
+  ├── Week 2: Express Deep (Routing, Middleware, Error Handling)
+  ├── Week 3: REST API Design + Authentication (JWT, OAuth)
+  ├── Week 4: API Security, Rate Limiting, Best Practices
+  ├── 🔨 PROJECT 1: REST API Project (Backend focused)
+  ├── SIDE: Greedy Algorithm problems [Tier 1 DSA]
+  └── Leetcode: 30 (Medium + Hard)
+
+
+PHASE 3: DATABASE + GATE + FRONTEND (Month 7-9)  [TIER 1+2]
+═════════════════════════════════════════════════════════════
+
+MONTH 7 → Database Deep
+  ├── Week 1: MongoDB (CRUD, Schema Design, Mongoose)
+  ├── Week 2: MongoDB Advanced (Aggregation, Indexing, Relations)
+  ├── Week 3: SQL/PostgreSQL (Joins, Subqueries, Window Functions)
+  ├── Week 4: Database Design, Normalization, Transactions
+  ├── 🔨 PROJECT 2: Full Stack App (React + Node + DB)
+  └── Leetcode: 25 (Medium + Hard)
+
+MONTH 8 → GATE Prep Part 1
+  ├── Week 1: Operating Systems (Process, Thread, Scheduling)
+  ├── Week 2: OS (Memory Management, Paging, Virtual Memory)
+  ├── Week 3: OS (Deadlock, Synchronization, File System)
+  ├── Week 4: OOPs Deep Theory (GATE perspective)
+  ├── SIDE: React Advanced [Tier 2]
+  └── Leetcode: 25 (Revision + New)
+
+MONTH 9 → GATE Prep Part 2
+  ├── Week 1: Computer Networks (OSI, TCP/IP, HTTP/HTTPS)
+  ├── Week 2: CN (Subnetting, Routing, DNS, DHCP)
+  ├── Week 3: DBMS Theory (ER Model, Normalization, SQL Theory)
+  ├── Week 4: DBMS (Transactions, Concurrency, Recovery)
+  ├── SIDE: Tailwind CSS [Tier 2]
+  └── Leetcode: 20 (Revision)
+
+
+PHASE 4: DEVOPS + AIML + EXTRAS (Month 10-12)  [TIER 2+3+4+5]
+═══════════════════════════════════════════════════════════════
+
+MONTH 10 → DevOps + Linux [Tier 2]
+  ├── Week 1: Linux Deep (Commands, Permissions, Shell Scripting)
+  ├── Week 2: Docker (Containers, Images, Compose, Networking)
+  ├── Week 3: Cloud Basics (AWS - EC2, S3, Lambda, Deploy)
+  ├── Week 4: CI/CD Pipeline (GitHub Actions)
+  ├── 🔨 PROJECT 3: Dockerized + Deployed Full Stack App
+  └── Leetcode: 20 (Hard focus)
+
+MONTH 11 → AI/ML [Tier 3] + Supporting [Tier 4]
+  ├── Week 1: Python ML Stack (NumPy, Pandas, Matplotlib)
+  ├── Week 2: ML Models (Regression, Classification, Clustering)
+  ├── Week 3: Deep Learning Intro + 🔨 PROJECT 4 (ML Project)
+  ├── Week 4: Tier 4 Overview Week
+  │   ├── Cybersecurity (OWASP Top 10, Basics) — 1 day
+  │   ├── Blockchain (Concepts, How it works) — 1 day
+  │   ├── IoT (Architecture, Protocols) — 1 day
+  │   ├── LLM/AI Agents (OpenAI API, LangChain) — 2 days
+  │   └── Tier 5 Exploration
+  │       ├── AR/VR (Concept overview) — 2 hours
+  │       ├── Quantum Computing (Concept) — 2 hours
+  │       └── System Design (LLD/HLD basics) — remaining
+  └── Leetcode: 15 (Mixed revision)
+
+MONTH 12 → Interview Prep + Polish [ALWAYS ACTIVE]
+  ├── Week 1: DSA Complete Revision (all topics rapid fire)
+  ├── Week 2: Project Polish + Deploy all + Documentation
+  ├── Week 3: Resume + Portfolio Website + LinkedIn + GitHub
+  ├── Week 4: Mock Interviews + Company Specific Prep
+  ├── 🔨 PROJECT 5: Portfolio/Capstone (if time permits)
+  └── Leetcode: 20 (Company specific problems)
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                     📊 Revised Leetcode Distribution
+═══════════════════════════════════════════════════════════════════════════════
+
+Month 1  →  10   (Easy — habit building)
+Month 2  →  40   (Easy + Medium)
+Month 3  →  45   (Easy + Medium)
+Month 4  →  40   (Medium heavy)
+Month 5  →  45   (Medium + Hard)
+Month 6  →  30   (Medium + Hard)
+Month 7  →  25   (Medium + Hard)
+Month 8  →  25   (Revision + New)
+Month 9  →  20   (Revision)
+Month 10 →  20   (Hard)
+Month 11 →  15   (Mixed)
+Month 12 →  20   (Company specific)
+──────────────────────────────
+TOTAL    → 335 problems ✅
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                     🧠 How Depth Changes Per Tier
+═══════════════════════════════════════════════════════════════════════════════
+
+TIER 1 (Deep Mastery):
+┌──────────────────────────────────────────┐
+│ ✅ Theory → Why it exists               │
+│ ✅ Internal Working → How it works       │
+│ ✅ Implementation → Code from scratch    │
+│ ✅ Edge Cases → What can go wrong        │
+│ ✅ Optimization → Make it faster/better  │
+│ ✅ Interview Questions → Top 50 per topic│
+│ ✅ Real World Usage → Where it's used    │
+│ ✅ Practice → 20-30 problems per topic   │
+│ ✅ Mini Tests → After every subtopic     │
+└──────────────────────────────────────────┘
+
+TIER 2 (Practical Knowledge):
+┌──────────────────────────────────────────┐
+│ ✅ Theory → What it is                  │
+│ ✅ Implementation → Build with it        │
+│ ✅ Best Practices → Do it right          │
+│ ✅ One Project → Prove you know it       │
+│ ❌ No deep internals                     │
+│ ❌ No competitive-level problems         │
+└──────────────────────────────────────────┘
+
+TIER 3 (Basic + One Project):
+┌──────────────────────────────────────────┐
+│ ✅ Core concepts → Understand foundation │
+│ ✅ One hands-on project                  │
+│ ✅ Know when to use what                 │
+│ ❌ No deep theory                        │
+│ ❌ No multiple projects                  │
+└──────────────────────────────────────────┘
+
+TIER 4 (Concept Overview):
+┌──────────────────────────────────────────┐
+│ ✅ What is it → 1 paragraph explanation  │
+│ ✅ Why it matters → Industry relevance   │
+│ ✅ Key terms → Vocabulary                │
+│ ❌ No coding                             │
+│ ❌ No projects                           │
+└──────────────────────────────────────────┘
+
+TIER 5 (Exploration):
+┌──────────────────────────────────────────┐
+│ ✅ Awareness → Know it exists            │
+│ ✅ 30-min read → Article/Video           │
+│ ❌ Nothing more                          │
+└──────────────────────────────────────────┘
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                       ✅ Final Confirmation Checklist
+═══════════════════════════════════════════════════════════════════════════════
+
+[✓] Tier system locked
+[✓] Java DSA = #1 priority
+[✓] Backend + Database = Tier 1 deep
+[✓] GATE Prep = Tier 1
+[✓] 335 Leetcode in 12 months
+[✓] 5 Projects planned
+[✓] Frontend/DevOps = Practical not deep
+[✓] AI/ML = Basic + 1 project
+[✓] Supporting/Advanced = Overview only
+[✓] Interview prep in final month
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                              🚀 LET'S GO!
+              "Consistency beats intensity. Show up every day."
+═══════════════════════════════════════════════════════════════════════════════

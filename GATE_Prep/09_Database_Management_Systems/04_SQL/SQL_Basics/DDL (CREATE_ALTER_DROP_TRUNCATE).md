@@ -1,0 +1,4 @@
+﻿# DDL (CREATE ALTER DROP TRUNCATE)
+
+> TODO: Add content
+

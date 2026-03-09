@@ -1,0 +1,4 @@
+﻿# Synonyms
+
+> TODO: Add content
+
